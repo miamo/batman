@@ -1,5 +1,4 @@
 using Toybox.Application as App;
-using Toybox.WatchUi as Ui;
 
 class batmanApp extends App.AppBase {
 
@@ -18,11 +17,6 @@ class batmanApp extends App.AppBase {
     //! Return the initial view of your application here
     function getInitialView() {
         return [ new batmanView() ];
-    }
-
-    //! New app settings have been received so trigger a UI update
-    function onSettingsChanged() {
-        Ui.requestUpdate();
     }
 
 }

@@ -39,9 +39,7 @@ class batmanView extends Ui.WatchFace {
         var settings=Sys.getDeviceSettings();
         var systemStats = Sys.getSystemStats();
         var flags = "";
-    	if (settings.phoneConnected) {flags = flags + "p";} 
-        if (settings.notificationCount>0) {flags = flags + "l";}
-        if (settings.alarmCount>0) {flags = flags + "f";}
+    	if (settings.notificationCount>0) {flags = flags + "l";}
         var dateString=Lang.format("$1$ $2$",[today.day_of_week,today.day]);
         var stepString = act.steps.toString( ) + " / " + act.stepGoal.toString( );
         var timeString;
@@ -63,6 +61,8 @@ class batmanView extends Ui.WatchFace {
         view = View.findDrawableById("StepLabel");
         view.setText(stepString);
         
+        view = View.findDrawableById("flags");
+        view.setText(flags);
         
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);

@@ -1,0 +1,6 @@
+<resources>
+    <string id="AppName">batman</string>
+    
+    <font id="typicons22" filename="fonts/typicons22.fnt" filter="l" />
+    <font id="batman2" filename="fonts/batman2.fnt" filter="0123456789:" />
+</resources>

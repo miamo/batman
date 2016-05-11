@@ -12,118 +12,105 @@
 <entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="40" pc="268435637" symbol="onUpdate"/>
 <entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="41" pc="268435654" symbol="onUpdate"/>
 <entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="42" pc="268435661" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="42" pc="268435672" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="43" pc="268435685" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="43" pc="268435702" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="44" pc="268435715" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="44" pc="268435732" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="45" pc="268435745" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="46" pc="268435805" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="47" pc="268435848" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="49" pc="268435848" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="50" pc="268435859" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="53" pc="268435936" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="54" pc="268435952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="55" pc="268435975" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="57" pc="268436043" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="58" pc="268436067" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="60" pc="268436081" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="61" pc="268436105" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="63" pc="268436119" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="64" pc="268436143" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="68" pc="268436157" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanBackground.mc" lineNum="8" pc="268436189" symbol="initialize"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanBackground.mc" lineNum="12" pc="268436210" symbol="initialize"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanBackground.mc" lineNum="17" pc="268436233" symbol="draw"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanBackground.mc" lineNum="18" pc="268436286" symbol="draw"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanApp.mc" lineNum="7" pc="268436301" symbol="initialize"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanApp.mc" lineNum="20" pc="268436328" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanApp.mc" lineNum="25" pc="268436368" symbol="onSettingsChanged"/>
-<entry filename="Rez" lineNum="29" pc="268436387" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="30" pc="268436462" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="31" pc="268436514" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="32" pc="268436566" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="33" pc="268436580" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="34" pc="268436690" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="35" pc="268436705" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="36" pc="268436757" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="37" pc="268436771" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="38" pc="268436887" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="39" pc="268436902" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="40" pc="268436954" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="41" pc="268436968" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="42" pc="268437078" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="43" pc="268437093" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="44" pc="268437145" symbol="WatchFace"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="42" pc="268435678" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="43" pc="268435691" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="44" pc="268435751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="45" pc="268435794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="47" pc="268435794" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="48" pc="268435805" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="51" pc="268435882" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="52" pc="268435898" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="53" pc="268435921" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="55" pc="268435989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="56" pc="268436013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="58" pc="268436027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="59" pc="268436051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="61" pc="268436065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="62" pc="268436089" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="64" pc="268436103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="65" pc="268436127" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanView.mc" lineNum="68" pc="268436141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanApp.mc" lineNum="6" pc="268436173" symbol="initialize"/>
+<entry filename="C:\\Users\\Mike\\workspace\\batman\\source\\batmanApp.mc" lineNum="19" pc="268436200" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="22" pc="268436240" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436315" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436367" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436419" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268436456" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268436566" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268436581" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436633" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436647" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436763" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436778" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436830" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268436844" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268436954" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436969" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268437021" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="38" pc="268437058" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="39" pc="268437181" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="21" symbol="ColorDarkGray"/>
-<entry id="11" module="true" symbol="Menus"/>
-<entry field="true" id="22" symbol="AppName"/>
-<entry field="true" id="14" symbol="LauncherIcon"/>
-<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="23" symbol="ColorWhite"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry id="8389347" symbol="color"/>
-<entry id="10" object="true" symbol="batmanApp"/>
-<entry field="true" id="20" symbol="ColorLightGray"/>
-<entry id="12" module="true" symbol="Layouts"/>
-<entry field="true" id="16" symbol="MilitaryFormatTitle"/>
+<entry id="9" object="true" symbol="batmanApp"/>
+<entry id="11" module="true" symbol="Layouts"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="13" symbol="id_batman"/>
+<entry field="true" id="12" symbol="id_batman"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
-<entry field="true" id="18" symbol="ColorBlack"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="8388769" module="true" symbol="Rez"/>
-<entry field="true" id="19" symbol="ColorBlue"/>
 <entry id="8" object="true" symbol="batmanView"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="9" object="true" symbol="Background"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8388645" module="true" symbol="Time"/>
-<entry field="true" id="15" symbol="ColorRed"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="15" symbol="batman2"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="17" symbol="ForegroundColorTitle"/>
-<entry field="true" id="24" symbol="BackgroundColorTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="typicons22"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436043" name="hour" stackId="11" startPc="268435936"/>
-<entry endPc="268436177" name="timeString" stackId="10" startPc="268435522"/>
-<entry endPc="268436177" name="systemStats" stackId="6" startPc="268435522"/>
-<entry endPc="268436177" name="now" stackId="3" startPc="268435522"/>
-<entry endPc="268436177" name="flags" stackId="7" startPc="268435522"/>
-<entry endPc="268436177" name="settings" stackId="5" startPc="268435522"/>
-<entry endPc="268436177" name="act" stackId="2" startPc="268435522"/>
-<entry endPc="268436177" name="today" stackId="4" startPc="268435522"/>
-<entry endPc="268436177" name="view" stackId="12" startPc="268435522"/>
-<entry endPc="268436177" name="dateString" stackId="8" startPc="268435522"/>
-<entry endPc="268436177" name="stepString" stackId="9" startPc="268435522"/>
-<entry endPc="268436230" name="dictionary" stackId="1" startPc="268436189"/>
-<entry endPc="268437192" name="rez_cmp_local_label_StepLabel_font" stackId="9" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_bitmap_id_batman" stackId="2" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_DateLabel_font" stackId="6" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_StepLabel_fontHeight" stackId="11" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="8" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_DateLabel" stackId="7" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268436387"/>
-<entry endPc="268437192" name="rez_cmp_local_label_StepLabel" stackId="10" startPc="268436387"/>
+<entry endPc="268435989" name="hour" stackId="11" startPc="268435882"/>
+<entry endPc="268436161" name="timeString" stackId="10" startPc="268435522"/>
+<entry endPc="268436161" name="systemStats" stackId="6" startPc="268435522"/>
+<entry endPc="268436161" name="now" stackId="3" startPc="268435522"/>
+<entry endPc="268436161" name="flags" stackId="7" startPc="268435522"/>
+<entry endPc="268436161" name="settings" stackId="5" startPc="268435522"/>
+<entry endPc="268436161" name="act" stackId="2" startPc="268435522"/>
+<entry endPc="268436161" name="today" stackId="4" startPc="268435522"/>
+<entry endPc="268436161" name="view" stackId="12" startPc="268435522"/>
+<entry endPc="268436161" name="dateString" stackId="8" startPc="268435522"/>
+<entry endPc="268436161" name="stepString" stackId="9" startPc="268435522"/>
+<entry endPc="268437238" name="rez_cmp_local_label_StepLabel_font" stackId="9" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_bitmap_id_batman" stackId="2" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_DateLabel_font" stackId="6" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_TimeLabel" stackId="4" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_flags_font" stackId="12" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_StepLabel_fontHeight" stackId="11" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_flags" stackId="13" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_DateLabel_fontHeight" stackId="8" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_DateLabel" stackId="7" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_TimeLabel_font" stackId="3" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_TimeLabel_fontHeight" stackId="5" startPc="268436240"/>
+<entry endPc="268437238" name="rez_cmp_local_label_StepLabel" stackId="10" startPc="268436240"/>
 </localVars>
 <annotations/>
 <functions>
@@ -150,13 +137,6 @@
 <functionEntry name="onEnterSleep" parent="batmanView">
 <documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="initialize" parent="Background">
-<documentation/>
-</functionEntry>
-<functionEntry name="draw" parent="Background">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
 <functionEntry name="initialize" parent="batmanApp">
 <documentation/>
 </functionEntry>
@@ -168,9 +148,6 @@
 </functionEntry>
 <functionEntry name="getInitialView" parent="batmanApp">
 <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry name="onSettingsChanged" parent="batmanApp">
-<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry name="WatchFace" parent="Layouts">
 <param id="dc"/>

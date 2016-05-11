@@ -1,6 +1,7 @@
 <layout id="WatchFace">
 	<bitmap id="id_batman" x="center" y="center" filename="../drawables/batman.png" />
-    <label id="TimeLabel" x="center" y="8" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_RED" />
+    <label id="TimeLabel" x="center" y="15" font="@Fonts.batman2" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_RED" />
 	<label id="DateLabel" x="center" y="-3" font="Gfx.FONT_TINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_GRAY" />
 	<label id="StepLabel" x="center" y="185" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_GRAY" />
+	<label id="flags" x="210" y="100" font="@Fonts.typicons22" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_DK_RED" />
 </layout>
